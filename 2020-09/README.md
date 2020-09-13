@@ -15,7 +15,8 @@
 
 ## P
 - P1 中等难度 algorithm_pattern 
-- P1 筛选面经
+- P1 回顾实习知识总结
+- P2 找面经
 
 ## F
 - P3 HOT100刷题
