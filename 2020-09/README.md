@@ -6,17 +6,20 @@
     - 阿里
     - 华为
     - 网易
-  - KR2：刷题80道 5/10
-    - 进度 x/80
-  - KR3：理解CV面经20套 5/10
+  - KR2：刷题80道
+    - 信心 5/10
+    - 进度 8/80
+  - KR3：理解CV面经20套 
+    - 信心 5/10
     - 进度 0/20
 
 ## P
-- P1 完成 algorithm_pattern 刷题
+- P1 中等难度 algorithm_pattern 
 - P1 筛选面经
 
 ## F
 - P3 HOT100刷题
+- P3 高难度 algorithm_pattern
 - P3 面经总结
 
 ## S
